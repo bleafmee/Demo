@@ -3,13 +3,12 @@
  */
 import java.awt.*;
 import java.applet.*;
-/*
- <applet code="sim" width=300 height=300>
- </applet>
- */
 
 /**
  * My Demo Class
+ *
+ * <applet code="sim" width=300 height=300>
+ * </applet>
  */
 public class DemoMain extends Applet
 {
