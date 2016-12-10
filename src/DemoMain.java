@@ -7,7 +7,7 @@ import java.applet.*;
 /**
  * My Demo Class
  *
- * <applet code="sim" width=300 height=300>
+ * <applet code="sim" width=300 height=350>
  * </applet>
  */
 public class DemoMain extends Applet
@@ -17,7 +17,7 @@ public class DemoMain extends Applet
     public void init()
     {
         msg+="init()--->";
-        setBackground(Color.green);
+        setBackground(Color.red);
     }
     public void start()
     {
