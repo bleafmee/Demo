@@ -13,11 +13,11 @@ import java.applet.*;
 public class DemoMain extends Applet
 {
     //test
-    String msg=" hello world";
+    String msg=" hello world 123";
     public void init()
     {
         msg+="init()--->";
-        setBackground(Color.yellow;
+        setBackground(Color.yellow);
     }
     public void start()
     {
