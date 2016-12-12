@@ -17,7 +17,7 @@ public class DemoMain extends Applet
     public void init()
     {
         msg+="init()--->";
-        setBackground(Color.blue);
+        setBackground(Color.yellow;
     }
     public void start()
     {
